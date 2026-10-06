@@ -41,8 +41,8 @@
 
 
 .logo-lien img {
-  height: 9vh; 
-  width: auto;   
+  height: auto; 
+  width: 20vh;   
   display: block;
   mix-blend-mode: multiply;
   margin-right: 7vh;
